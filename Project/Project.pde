@@ -12,6 +12,10 @@ void setup() {
   population();
   //Theme: i.e Face
   faceSetup();
+  eyes();
+  nose();
+  mouth();
+  measlesDynamic();
   //Back Image with tint()
 }//End setup
 //
