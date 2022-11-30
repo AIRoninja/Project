@@ -14,7 +14,6 @@ void population() {
   faceY = centerY;
   faceDiameter = smallerDimension;
   //
-  //
 } //End population
 //
 //End population Subprogram
